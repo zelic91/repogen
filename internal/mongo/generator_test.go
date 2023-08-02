@@ -5,10 +5,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/code"
-	"github.com/sunboyy/repogen/internal/codegen"
-	"github.com/sunboyy/repogen/internal/mongo"
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/codegen"
+	"github.com/zelic91/repogen/internal/mongo"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 var (

@@ -48,7 +48,7 @@ func main() {
 // an insertedID.
 func demonstrateInsertion() {
 	userModel := &UserModel{
-		Username:    "sunboyy",
+		Username:    "zelic91",
 		DisplayName: "SB",
 		City:        "Bangkok, Thailand",
 	}
@@ -64,7 +64,7 @@ func demonstrateInsertion() {
 // demonstrateFind shows how find method in repogen works. It receives query parameters through method
 // arguments and returns matched result
 func demonstrateFind() {
-	userModel, err := userRepository.FindByUsername(context.Background(), "sunboyy")
+	userModel, err := userRepository.FindByUsername(context.Background(), "zelic91")
 	if err != nil {
 		panic(err)
 	}

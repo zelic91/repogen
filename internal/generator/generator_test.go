@@ -4,10 +4,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/code"
-	"github.com/sunboyy/repogen/internal/generator"
-	"github.com/sunboyy/repogen/internal/spec"
-	"github.com/sunboyy/repogen/internal/testutils"
+	"github.com/zelic91/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/generator"
+	"github.com/zelic91/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/testutils"
 )
 
 var (

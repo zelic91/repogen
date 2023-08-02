@@ -4,7 +4,7 @@ import (
 	"strconv"
 
 	"github.com/fatih/camelcase"
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 // ParseInterfaceMethod returns repository method spec from declared interface

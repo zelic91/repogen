@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"text/template"
 
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 const methodTemplate = `

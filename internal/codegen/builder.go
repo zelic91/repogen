@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"text/template"
 
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 	"golang.org/x/tools/imports"
 )
 

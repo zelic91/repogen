@@ -3,7 +3,7 @@ package spec_test
 import (
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 type UpdateTypeTestCase struct {

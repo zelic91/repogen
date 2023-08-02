@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/code"
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 var (

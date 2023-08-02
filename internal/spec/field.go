@@ -3,7 +3,7 @@ package spec
 import (
 	"strings"
 
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 // FieldReference is a reference path to access to the field

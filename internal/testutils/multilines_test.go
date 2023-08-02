@@ -3,7 +3,7 @@ package testutils_test
 import (
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/testutils"
+	"github.com/zelic91/repogen/internal/testutils"
 )
 
 func TestExpectMultiLineString(t *testing.T) {

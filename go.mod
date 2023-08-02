@@ -1,4 +1,4 @@
-module github.com/sunboyy/repogen
+module github.com/zelic91/repogen
 
 go 1.19
 

@@ -3,7 +3,7 @@ package mongo
 import (
 	"fmt"
 
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 // NewOperationNotSupportedError creates operationNotSupportedError

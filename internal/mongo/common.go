@@ -3,9 +3,9 @@ package mongo
 import (
 	"strings"
 
-	"github.com/sunboyy/repogen/internal/code"
-	"github.com/sunboyy/repogen/internal/codegen"
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/codegen"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 var errOccurred = codegen.RawStatement("err != nil")

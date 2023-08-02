@@ -7,7 +7,7 @@ import (
 	"go/token"
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 const goImplFile1Data = `

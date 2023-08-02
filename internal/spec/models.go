@@ -1,7 +1,7 @@
 package spec
 
 import (
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 // QueryMode one or many

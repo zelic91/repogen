@@ -1,7 +1,7 @@
 package spec
 
 import (
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 // QuerySpec is a set of conditions of querying the database

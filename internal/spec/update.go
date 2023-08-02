@@ -1,6 +1,6 @@
 package spec
 
-import "github.com/sunboyy/repogen/internal/code"
+import "github.com/zelic91/repogen/internal/code"
 
 // UpdateOperation is a method specification for update operations
 type UpdateOperation struct {

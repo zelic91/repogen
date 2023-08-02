@@ -3,7 +3,7 @@ package code_test
 import (
 	"testing"
 
-	"github.com/sunboyy/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/code"
 )
 
 type ErrorTestCase struct {

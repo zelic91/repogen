@@ -10,14 +10,14 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sunboyy/repogen/internal/code"
-	"github.com/sunboyy/repogen/internal/generator"
-	"github.com/sunboyy/repogen/internal/spec"
+	"github.com/zelic91/repogen/internal/code"
+	"github.com/zelic91/repogen/internal/generator"
+	"github.com/zelic91/repogen/internal/spec"
 )
 
 const usageText = `repogen generates MongoDB repository implementation from repository interface
 
-  Find more information at: https://github.com/sunboyy/repogen
+  Find more information at: https://github.com/zelic91/repogen
 
 Supported options:`
 
